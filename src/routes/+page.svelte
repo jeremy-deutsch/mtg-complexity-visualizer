@@ -51,7 +51,7 @@
 		}
 	}
 
-	$: sortedSetData = refinedSets.toSorted(sortFunction);
+	$: sortedSetData = Array.from(refinedSets).sort(sortFunction);
 
 	$: maxWordCount = refinedSets.reduce<number>((currentMax, nextSet) => {
 		if (nextSet.averageWordCount && nextSet.averageWordCount > currentMax) {
