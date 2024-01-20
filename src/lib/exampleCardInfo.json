@@ -1,0 +1,1052 @@
+[
+	{
+		"name": "Abrade",
+		"rarity": "common",
+		"wordCountWithReminderText": 13,
+		"wordCountWithoutReminderText": 13
+	},
+	{
+		"name": "Abuelo, Ancestral Echo",
+		"rarity": "rare",
+		"wordCountWithReminderText": 28,
+		"wordCountWithoutReminderText": 28
+	},
+	{
+		"name": "Abuelo's Awakening",
+		"rarity": "rare",
+		"wordCountWithReminderText": 33,
+		"wordCountWithoutReminderText": 33
+	},
+	{
+		"name": "Abyssal Gorestalker",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 11,
+		"wordCountWithoutReminderText": 11
+	},
+	{
+		"name": "Aclazotz, Deepest Betrayal // Temple of the Dead",
+		"rarity": "mythic",
+		"wordCountWithReminderText": 77,
+		"wordCountWithoutReminderText": 73
+	},
+	{
+		"name": "Acolyte of Aclazotz",
+		"rarity": "common",
+		"wordCountWithReminderText": 16,
+		"wordCountWithoutReminderText": 16
+	},
+	{
+		"name": "Acrobatic Leap",
+		"rarity": "common",
+		"wordCountWithReminderText": 13,
+		"wordCountWithoutReminderText": 13
+	},
+	{
+		"name": "Adaptive Gemguard",
+		"rarity": "common",
+		"wordCountWithReminderText": 20,
+		"wordCountWithoutReminderText": 20
+	},
+	{
+		"name": "Akal Pakal, First Among Equals",
+		"rarity": "rare",
+		"wordCountWithReminderText": 41,
+		"wordCountWithoutReminderText": 41
+	},
+	{
+		"name": "Akawalli, the Seething Tower",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 54,
+		"wordCountWithoutReminderText": 54
+	},
+	{
+		"name": "Amalia Benavides Aguirre",
+		"rarity": "rare",
+		"wordCountWithReminderText": 62,
+		"wordCountWithoutReminderText": 21
+	},
+	{
+		"name": "Ancestors' Aid",
+		"rarity": "common",
+		"wordCountWithReminderText": 29,
+		"wordCountWithoutReminderText": 15
+	},
+	{
+		"name": "Ancestral Reminiscence",
+		"rarity": "common",
+		"wordCountWithReminderText": 7,
+		"wordCountWithoutReminderText": 7
+	},
+	{
+		"name": "Anim Pakal, Thousandth Moon",
+		"rarity": "rare",
+		"wordCountWithReminderText": 41,
+		"wordCountWithoutReminderText": 41
+	},
+	{
+		"name": "Another Chance",
+		"rarity": "common",
+		"wordCountWithReminderText": 33,
+		"wordCountWithoutReminderText": 18
+	},
+	{
+		"name": "Armored Kincaller",
+		"rarity": "common",
+		"wordCountWithReminderText": 28,
+		"wordCountWithoutReminderText": 28
+	},
+	{
+		"name": "Attentive Sunscribe",
+		"rarity": "common",
+		"wordCountWithReminderText": 23,
+		"wordCountWithoutReminderText": 7
+	},
+	{
+		"name": "Bartolomé del Presidio",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 13,
+		"wordCountWithoutReminderText": 13
+	},
+	{
+		"name": "Basking Capybara",
+		"rarity": "common",
+		"wordCountWithReminderText": 20,
+		"wordCountWithoutReminderText": 20
+	},
+	{
+		"name": "Bat Colony",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 42,
+		"wordCountWithoutReminderText": 42
+	},
+	{
+		"name": "Bedrock Tortoise",
+		"rarity": "rare",
+		"wordCountWithReminderText": 31,
+		"wordCountWithoutReminderText": 31
+	},
+	{
+		"name": "Belligerent Yearling",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 26,
+		"wordCountWithoutReminderText": 26
+	},
+	{
+		"name": "Bitter Triumph",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 19,
+		"wordCountWithoutReminderText": 19
+	},
+	{
+		"name": "Bloodletter of Aclazotz",
+		"rarity": "mythic",
+		"wordCountWithReminderText": 21,
+		"wordCountWithoutReminderText": 16
+	},
+	{
+		"name": "Bloodthorn Flail",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 9,
+		"wordCountWithoutReminderText": 9
+	},
+	{
+		"name": "Bonehoard Dracosaur",
+		"rarity": "mythic",
+		"wordCountWithReminderText": 49,
+		"wordCountWithoutReminderText": 49
+	},
+	{
+		"name": "Brackish Blunder",
+		"rarity": "common",
+		"wordCountWithReminderText": 34,
+		"wordCountWithoutReminderText": 15
+	},
+	{
+		"name": "Braided Net // Braided Quipu",
+		"rarity": "rare",
+		"wordCountWithReminderText": 61,
+		"wordCountWithoutReminderText": 61
+	},
+	{
+		"name": "Brass's Tunnel-Grinder // Tecutlan, the Searing Rift",
+		"rarity": "rare",
+		"wordCountWithReminderText": 94,
+		"wordCountWithoutReminderText": 78
+	},
+	{
+		"name": "Brazen Blademaster",
+		"rarity": "common",
+		"wordCountWithReminderText": 18,
+		"wordCountWithoutReminderText": 18
+	},
+	{
+		"name": "Breeches, Eager Pillager",
+		"rarity": "rare",
+		"wordCountWithReminderText": 39,
+		"wordCountWithoutReminderText": 39
+	},
+	{
+		"name": "Bringer of the Last Gift",
+		"rarity": "rare",
+		"wordCountWithReminderText": 40,
+		"wordCountWithoutReminderText": 40
+	},
+	{
+		"name": "Broodrage Mycoid",
+		"rarity": "common",
+		"wordCountWithReminderText": 37,
+		"wordCountWithoutReminderText": 24
+	},
+	{
+		"name": "Buried Treasure",
+		"rarity": "common",
+		"wordCountWithReminderText": 66,
+		"wordCountWithoutReminderText": 23
+	},
+	{
+		"name": "Burning Sun Cavalry",
+		"rarity": "common",
+		"wordCountWithReminderText": 21,
+		"wordCountWithoutReminderText": 21
+	},
+	{
+		"name": "Calamitous Cave-In",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 29,
+		"wordCountWithoutReminderText": 29
+	},
+	{
+		"name": "Canonized in Blood",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 50,
+		"wordCountWithoutReminderText": 38
+	},
+	{
+		"name": "Caparocti Sunborn",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 62,
+		"wordCountWithoutReminderText": 19
+	},
+	{
+		"name": "Captain Storm, Cosmium Raider",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 18,
+		"wordCountWithoutReminderText": 18
+	},
+	{
+		"name": "Captivating Cave",
+		"rarity": "common",
+		"wordCountWithReminderText": 26,
+		"wordCountWithoutReminderText": 26
+	},
+	{
+		"name": "Careening Mine Cart",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 47,
+		"wordCountWithoutReminderText": 11
+	},
+	{
+		"name": "Cartographer's Companion",
+		"rarity": "common",
+		"wordCountWithReminderText": 29,
+		"wordCountWithoutReminderText": 10
+	},
+	{
+		"name": "Cavern of Souls",
+		"rarity": "mythic",
+		"wordCountWithReminderText": 38,
+		"wordCountWithoutReminderText": 38
+	},
+	{
+		"name": "Cavernous Maw",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 42,
+		"wordCountWithoutReminderText": 42
+	},
+	{
+		"name": "Cavern Stomper",
+		"rarity": "common",
+		"wordCountWithReminderText": 48,
+		"wordCountWithoutReminderText": 23
+	},
+	{
+		"name": "Cenote Scout",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 44,
+		"wordCountWithoutReminderText": 8
+	},
+	{
+		"name": "Chart a Course",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 12,
+		"wordCountWithoutReminderText": 12
+	},
+	{
+		"name": "Child of the Volcano",
+		"rarity": "common",
+		"wordCountWithReminderText": 34,
+		"wordCountWithoutReminderText": 21
+	},
+	{
+		"name": "Chimil, the Inner Sun",
+		"rarity": "mythic",
+		"wordCountWithReminderText": 57,
+		"wordCountWithoutReminderText": 14
+	},
+	{
+		"name": "Chupacabra Echo",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 31,
+		"wordCountWithoutReminderText": 31
+	},
+	{
+		"name": "Clay-Fired Bricks // Cosmium Kiln",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 77,
+		"wordCountWithoutReminderText": 48
+	},
+	{
+		"name": "Coati Scavenger",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 30,
+		"wordCountWithoutReminderText": 30
+	},
+	{
+		"name": "Cogwork Wrestler",
+		"rarity": "common",
+		"wordCountWithReminderText": 17,
+		"wordCountWithoutReminderText": 17
+	},
+	{
+		"name": "Colossadactyl",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 2,
+		"wordCountWithoutReminderText": 2
+	},
+	{
+		"name": "Compass Gnome",
+		"rarity": "common",
+		"wordCountWithReminderText": 29,
+		"wordCountWithoutReminderText": 29
+	},
+	{
+		"name": "Confounding Riddle",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 33,
+		"wordCountWithoutReminderText": 33
+	},
+	{
+		"name": "Contested Game Ball",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 48,
+		"wordCountWithoutReminderText": 48
+	},
+	{
+		"name": "Corpses of the Lost",
+		"rarity": "rare",
+		"wordCountWithReminderText": 64,
+		"wordCountWithoutReminderText": 51
+	},
+	{
+		"name": "Cosmium Blast",
+		"rarity": "common",
+		"wordCountWithReminderText": 11,
+		"wordCountWithoutReminderText": 11
+	},
+	{
+		"name": "Cosmium Confluence",
+		"rarity": "rare",
+		"wordCountWithReminderText": 50,
+		"wordCountWithoutReminderText": 50
+	},
+	{
+		"name": "Council of Echoes",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 37,
+		"wordCountWithoutReminderText": 37
+	},
+	{
+		"name": "Curator of Sun's Creation",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 16,
+		"wordCountWithoutReminderText": 16
+	},
+	{
+		"name": "Daring Discovery",
+		"rarity": "common",
+		"wordCountWithReminderText": 53,
+		"wordCountWithoutReminderText": 10
+	},
+	{
+		"name": "Dauntless Dismantler",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 18,
+		"wordCountWithoutReminderText": 18
+	},
+	{
+		"name": "Dead Weight",
+		"rarity": "common",
+		"wordCountWithReminderText": 5,
+		"wordCountWithoutReminderText": 5
+	},
+	{
+		"name": "Deathcap Marionette",
+		"rarity": "common",
+		"wordCountWithReminderText": 24,
+		"wordCountWithoutReminderText": 11
+	},
+	{
+		"name": "Deconstruction Hammer",
+		"rarity": "common",
+		"wordCountWithReminderText": 29,
+		"wordCountWithoutReminderText": 17
+	},
+	{
+		"name": "Deep-Cavern Bat",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 26,
+		"wordCountWithoutReminderText": 26
+	},
+	{
+		"name": "Deepfathom Echo",
+		"rarity": "rare",
+		"wordCountWithReminderText": 69,
+		"wordCountWithoutReminderText": 28
+	},
+	{
+		"name": "Deep Goblin Skulltaker",
+		"rarity": "common",
+		"wordCountWithReminderText": 33,
+		"wordCountWithoutReminderText": 20
+	},
+	{
+		"name": "Deeproot Pilgrimage",
+		"rarity": "rare",
+		"wordCountWithReminderText": 19,
+		"wordCountWithoutReminderText": 19
+	},
+	{
+		"name": "Defossilize",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 57,
+		"wordCountWithoutReminderText": 17
+	},
+	{
+		"name": "Diamond Pick-Axe",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 37,
+		"wordCountWithoutReminderText": 17
+	},
+	{
+		"name": "Didact Echo",
+		"rarity": "common",
+		"wordCountWithReminderText": 28,
+		"wordCountWithoutReminderText": 28
+	},
+	{
+		"name": "Digsite Conservator",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 73,
+		"wordCountWithoutReminderText": 30
+	},
+	{
+		"name": "Dinotomaton",
+		"rarity": "common",
+		"wordCountWithReminderText": 26,
+		"wordCountWithoutReminderText": 16
+	},
+	{
+		"name": "Dire Flail // Dire Blunderbuss",
+		"rarity": "rare",
+		"wordCountWithReminderText": 71,
+		"wordCountWithoutReminderText": 42
+	},
+	{
+		"name": "Disruptor Wanderglyph",
+		"rarity": "common",
+		"wordCountWithReminderText": 11,
+		"wordCountWithoutReminderText": 11
+	},
+	{
+		"name": "Disturbed Slumber",
+		"rarity": "common",
+		"wordCountWithReminderText": 29,
+		"wordCountWithoutReminderText": 29
+	},
+	{
+		"name": "Dowsing Device // Geode Grotto",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 71,
+		"wordCountWithoutReminderText": 68
+	},
+	{
+		"name": "Dreadmaw's Ire",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 28,
+		"wordCountWithoutReminderText": 28
+	},
+	{
+		"name": "Dusk Rose Reliquary",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 35,
+		"wordCountWithoutReminderText": 35
+	},
+	{
+		"name": "Earthshaker Dreadmaw",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 15,
+		"wordCountWithoutReminderText": 15
+	},
+	{
+		"name": "Eaten by Piranhas",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 27,
+		"wordCountWithoutReminderText": 18
+	},
+	{
+		"name": "Echoing Deeps",
+		"rarity": "rare",
+		"wordCountWithReminderText": 31,
+		"wordCountWithoutReminderText": 31
+	},
+	{
+		"name": "Echo of Dusk",
+		"rarity": "common",
+		"wordCountWithReminderText": 24,
+		"wordCountWithoutReminderText": 24
+	},
+	{
+		"name": "Enterprising Scallywag",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 29,
+		"wordCountWithoutReminderText": 16
+	},
+	{
+		"name": "Envoy of Okinec Ahau",
+		"rarity": "common",
+		"wordCountWithReminderText": 9,
+		"wordCountWithoutReminderText": 9
+	},
+	{
+		"name": "Etali's Favor",
+		"rarity": "common",
+		"wordCountWithReminderText": 60,
+		"wordCountWithoutReminderText": 18
+	},
+	{
+		"name": "Explorer's Cache",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 44,
+		"wordCountWithoutReminderText": 44
+	},
+	{
+		"name": "Fabrication Foundry",
+		"rarity": "rare",
+		"wordCountWithReminderText": 55,
+		"wordCountWithoutReminderText": 55
+	},
+	{
+		"name": "Family Reunion",
+		"rarity": "common",
+		"wordCountWithReminderText": 33,
+		"wordCountWithoutReminderText": 21
+	},
+	{
+		"name": "Fanatical Offering",
+		"rarity": "common",
+		"wordCountWithReminderText": 39,
+		"wordCountWithoutReminderText": 20
+	},
+	{
+		"name": "Forest",
+		"rarity": "common",
+		"wordCountWithReminderText": 3,
+		"wordCountWithoutReminderText": 0
+	},
+	{
+		"name": "Forgotten Monument",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 17,
+		"wordCountWithoutReminderText": 17
+	},
+	{
+		"name": "Frilled Cave-Wurm",
+		"rarity": "common",
+		"wordCountWithReminderText": 20,
+		"wordCountWithoutReminderText": 20
+	},
+	{
+		"name": "Fungal Fortitude",
+		"rarity": "common",
+		"wordCountWithReminderText": 18,
+		"wordCountWithoutReminderText": 18
+	},
+	{
+		"name": "Gargantuan Leech",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 19,
+		"wordCountWithoutReminderText": 19
+	},
+	{
+		"name": "Geological Appraiser",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 55,
+		"wordCountWithoutReminderText": 12
+	},
+	{
+		"name": "Get Lost",
+		"rarity": "rare",
+		"wordCountWithReminderText": 30,
+		"wordCountWithoutReminderText": 12
+	},
+	{
+		"name": "Ghalta, Stampede Tyrant",
+		"rarity": "mythic",
+		"wordCountWithReminderText": 19,
+		"wordCountWithoutReminderText": 19
+	},
+	{
+		"name": "Gishath, Sun's Avatar",
+		"rarity": "mythic",
+		"wordCountWithReminderText": 48,
+		"wordCountWithoutReminderText": 48
+	},
+	{
+		"name": "Glimpse the Core",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 31,
+		"wordCountWithoutReminderText": 31
+	},
+	{
+		"name": "Glorifier of Suffering",
+		"rarity": "common",
+		"wordCountWithReminderText": 29,
+		"wordCountWithoutReminderText": 29
+	},
+	{
+		"name": "Glowcap Lantern",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 59,
+		"wordCountWithoutReminderText": 24
+	},
+	{
+		"name": "Goblin Tomb Raider",
+		"rarity": "common",
+		"wordCountWithReminderText": 15,
+		"wordCountWithoutReminderText": 15
+	},
+	{
+		"name": "Goldfury Strider",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 21,
+		"wordCountWithoutReminderText": 21
+	},
+	{
+		"name": "Grasping Shadows // Shadows' Lair",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 59,
+		"wordCountWithoutReminderText": 56
+	},
+	{
+		"name": "Greedy Freebooter",
+		"rarity": "common",
+		"wordCountWithReminderText": 47,
+		"wordCountWithoutReminderText": 11
+	},
+	{
+		"name": "Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun",
+		"rarity": "rare",
+		"wordCountWithReminderText": 77,
+		"wordCountWithoutReminderText": 72
+	},
+	{
+		"name": "Guardian of the Great Door",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 17,
+		"wordCountWithoutReminderText": 17
+	},
+	{
+		"name": "Helping Hand",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 17,
+		"wordCountWithoutReminderText": 17
+	},
+	{
+		"name": "Hermitic Nautilus",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 9,
+		"wordCountWithoutReminderText": 9
+	},
+	{
+		"name": "Hidden Cataract",
+		"rarity": "common",
+		"wordCountWithReminderText": 62,
+		"wordCountWithoutReminderText": 19
+	},
+	{
+		"name": "Hidden Courtyard",
+		"rarity": "common",
+		"wordCountWithReminderText": 62,
+		"wordCountWithoutReminderText": 19
+	},
+	{
+		"name": "Hidden Necropolis",
+		"rarity": "common",
+		"wordCountWithReminderText": 62,
+		"wordCountWithoutReminderText": 19
+	},
+	{
+		"name": "Hidden Nursery",
+		"rarity": "common",
+		"wordCountWithReminderText": 62,
+		"wordCountWithoutReminderText": 19
+	},
+	{
+		"name": "Hidden Volcano",
+		"rarity": "common",
+		"wordCountWithReminderText": 62,
+		"wordCountWithoutReminderText": 19
+	},
+	{
+		"name": "Hit the Mother Lode",
+		"rarity": "rare",
+		"wordCountWithReminderText": 69,
+		"wordCountWithoutReminderText": 23
+	},
+	{
+		"name": "Hotfoot Gnome",
+		"rarity": "common",
+		"wordCountWithReminderText": 10,
+		"wordCountWithoutReminderText": 10
+	},
+	{
+		"name": "Hoverstone Pilgrim",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 36,
+		"wordCountWithoutReminderText": 16
+	},
+	{
+		"name": "Huatli, Poet of Unity // Roar of the Fifth People",
+		"rarity": "mythic",
+		"wordCountWithReminderText": 114,
+		"wordCountWithoutReminderText": 99
+	},
+	{
+		"name": "Huatli's Final Strike",
+		"rarity": "common",
+		"wordCountWithReminderText": 23,
+		"wordCountWithoutReminderText": 23
+	},
+	{
+		"name": "Hulking Raptor",
+		"rarity": "rare",
+		"wordCountWithReminderText": 11,
+		"wordCountWithoutReminderText": 11
+	},
+	{
+		"name": "Hunter's Blowgun",
+		"rarity": "common",
+		"wordCountWithReminderText": 30,
+		"wordCountWithoutReminderText": 18
+	},
+	{
+		"name": "Hurl into History",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 58,
+		"wordCountWithoutReminderText": 15
+	},
+	{
+		"name": "Idol of the Deep King // Sovereign's Macuahuitl",
+		"rarity": "common",
+		"wordCountWithReminderText": 77,
+		"wordCountWithoutReminderText": 36
+	},
+	{
+		"name": "In the Presence of Ages",
+		"rarity": "common",
+		"wordCountWithReminderText": 30,
+		"wordCountWithoutReminderText": 30
+	},
+	{
+		"name": "Inti, Seneschal of the Sun",
+		"rarity": "rare",
+		"wordCountWithReminderText": 49,
+		"wordCountWithoutReminderText": 49
+	},
+	{
+		"name": "Intrepid Paleontologist",
+		"rarity": "rare",
+		"wordCountWithReminderText": 59,
+		"wordCountWithoutReminderText": 45
+	},
+	{
+		"name": "Inverted Iceberg // Iceberg Titan",
+		"rarity": "common",
+		"wordCountWithReminderText": 72,
+		"wordCountWithoutReminderText": 30
+	},
+	{
+		"name": "Ironpaw Aspirant",
+		"rarity": "common",
+		"wordCountWithReminderText": 13,
+		"wordCountWithoutReminderText": 13
+	},
+	{
+		"name": "Island",
+		"rarity": "common",
+		"wordCountWithReminderText": 3,
+		"wordCountWithoutReminderText": 0
+	},
+	{
+		"name": "Itzquinth, Firstborn of Gishath",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 29,
+		"wordCountWithoutReminderText": 29
+	},
+	{
+		"name": "Ixalli's Lorekeeper",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 24,
+		"wordCountWithoutReminderText": 24
+	},
+	{
+		"name": "Jadelight Spelunker",
+		"rarity": "rare",
+		"wordCountWithReminderText": 50,
+		"wordCountWithoutReminderText": 10
+	},
+	{
+		"name": "Jade Seedstones // Jadeheart Attendant",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 73,
+		"wordCountWithoutReminderText": 44
+	},
+	{
+		"name": "Join the Dead",
+		"rarity": "common",
+		"wordCountWithReminderText": 30,
+		"wordCountWithoutReminderText": 30
+	},
+	{
+		"name": "Kaslem's Stonetree // Kaslem's Strider",
+		"rarity": "common",
+		"wordCountWithReminderText": 70,
+		"wordCountWithoutReminderText": 41
+	},
+	{
+		"name": "Kellan, Daring Traveler // Journey On",
+		"rarity": "rare",
+		"wordCountWithReminderText": 65,
+		"wordCountWithoutReminderText": 53
+	},
+	{
+		"name": "Kinjalli's Dawnrunner",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 45,
+		"wordCountWithoutReminderText": 9
+	},
+	{
+		"name": "Kitesail Larcenist",
+		"rarity": "rare",
+		"wordCountWithReminderText": 55,
+		"wordCountWithoutReminderText": 55
+	},
+	{
+		"name": "Kutzil, Malamet Exemplar",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 31,
+		"wordCountWithoutReminderText": 31
+	},
+	{
+		"name": "Kutzil's Flanker",
+		"rarity": "rare",
+		"wordCountWithReminderText": 39,
+		"wordCountWithoutReminderText": 39
+	},
+	{
+		"name": "Lodestone Needle // Guidestone Compass",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 101,
+		"wordCountWithoutReminderText": 24
+	},
+	{
+		"name": "Magmatic Galleon",
+		"rarity": "rare",
+		"wordCountWithReminderText": 33,
+		"wordCountWithoutReminderText": 33
+	},
+	{
+		"name": "Malamet Battle Glyph",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 33,
+		"wordCountWithoutReminderText": 33
+	},
+	{
+		"name": "Malamet Brawler",
+		"rarity": "common",
+		"wordCountWithReminderText": 13,
+		"wordCountWithoutReminderText": 13
+	},
+	{
+		"name": "Malamet Scythe",
+		"rarity": "common",
+		"wordCountWithReminderText": 29,
+		"wordCountWithoutReminderText": 17
+	},
+	{
+		"name": "Malamet Veteran",
+		"rarity": "common",
+		"wordCountWithReminderText": 25,
+		"wordCountWithoutReminderText": 25
+	},
+	{
+		"name": "Malamet War Scribe",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 16,
+		"wordCountWithoutReminderText": 16
+	},
+	{
+		"name": "Malcolm, Alluring Scoundrel",
+		"rarity": "rare",
+		"wordCountWithReminderText": 44,
+		"wordCountWithoutReminderText": 44
+	},
+	{
+		"name": "Malicious Eclipse",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 21,
+		"wordCountWithoutReminderText": 21
+	},
+	{
+		"name": "Marauding Brinefang",
+		"rarity": "common",
+		"wordCountWithReminderText": 44,
+		"wordCountWithoutReminderText": 4
+	},
+	{
+		"name": "Market Gnome",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 33,
+		"wordCountWithoutReminderText": 33
+	},
+	{
+		"name": "Master's Guide-Mural // Master's Manufactory",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 75,
+		"wordCountWithoutReminderText": 46
+	},
+	{
+		"name": "Matzalantli, the Great Door // The Core",
+		"rarity": "rare",
+		"wordCountWithReminderText": 63,
+		"wordCountWithoutReminderText": 51
+	},
+	{
+		"name": "Mephitic Draught",
+		"rarity": "common",
+		"wordCountWithReminderText": 24,
+		"wordCountWithoutReminderText": 24
+	},
+	{
+		"name": "Merfolk Cave-Diver",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 20,
+		"wordCountWithoutReminderText": 20
+	},
+	{
+		"name": "Might of the Ancestors",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 21,
+		"wordCountWithoutReminderText": 21
+	},
+	{
+		"name": "Miner's Guidewing",
+		"rarity": "common",
+		"wordCountWithReminderText": 46,
+		"wordCountWithoutReminderText": 10
+	},
+	{
+		"name": "Mineshaft Spider",
+		"rarity": "common",
+		"wordCountWithReminderText": 24,
+		"wordCountWithoutReminderText": 11
+	},
+	{
+		"name": "Mischievous Pup",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 19,
+		"wordCountWithoutReminderText": 19
+	},
+	{
+		"name": "Molten Collapse",
+		"rarity": "rare",
+		"wordCountWithReminderText": 41,
+		"wordCountWithoutReminderText": 29
+	},
+	{
+		"name": "Mountain",
+		"rarity": "common",
+		"wordCountWithReminderText": 3,
+		"wordCountWithoutReminderText": 0
+	},
+	{
+		"name": "Nicanzil, Current Conductor",
+		"rarity": "uncommon",
+		"wordCountWithReminderText": 38,
+		"wordCountWithoutReminderText": 38
+	},
+	{
+		"name": "Nurturing Bristleback",
+		"rarity": "common",
+		"wordCountWithReminderText": 34,
+		"wordCountWithoutReminderText": 14
+	},
+	{
+		"name": "Oaken Siren",
+		"rarity": "common",
+		"wordCountWithReminderText": 21,
+		"wordCountWithoutReminderText": 21
+	},
+	{
+		"name": "Ojer Axonil, Deepest Might // Temple of Power",
+		"rarity": "mythic",
+		"wordCountWithReminderText": 79,
+		"wordCountWithoutReminderText": 74
+	},
+	{
+		"name": "Ojer Kaslem, Deepest Growth // Temple of Cultivation",
+		"rarity": "mythic",
+		"wordCountWithReminderText": 87,
+		"wordCountWithoutReminderText": 82
+	},
+	{
+		"name": "Ojer Pakpatiq, Deepest Epoch // Temple of Cyclical Time",
+		"rarity": "mythic",
+		"wordCountWithReminderText": 94,
+		"wordCountWithoutReminderText": 67
+	},
+	{
+		"name": "Ojer Taq, Deepest Foundation // Temple of Civilization",
+		"rarity": "mythic",
+		"wordCountWithReminderText": 67,
+		"wordCountWithoutReminderText": 62
+	},
+	{
+		"name": "Oltec Archaeologists",
+		"rarity": "common",
+		"wordCountWithReminderText": 47,
+		"wordCountWithoutReminderText": 21
+	},
+	{
+		"name": "Oltec Cloud Guard",
+		"rarity": "common",
+		"wordCountWithReminderText": 15,
+		"wordCountWithoutReminderText": 15
+	},
+	{
+		"name": "Orazca Puzzle-Door",
+		"rarity": "common",
+		"wordCountWithReminderText": 28,
+		"wordCountWithoutReminderText": 28
+	}
+]

@@ -1,0 +1,1986 @@
+[
+	{
+		"name": "The Lost Caverns of Ixalan",
+		"code": "lci",
+		"averageWordCounts": {
+			"common": 18.67142857142857,
+			"uncommon": 26.322580645161292,
+			"rare": 44.674418604651166,
+			"overall": 27.771428571428572
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 31.2,
+			"uncommon": 36.11290322580645,
+			"rare": 54.41860465116279,
+			"overall": 38.645714285714284
+		}
+	},
+	{
+		"name": "Wilds of Eldraine",
+		"code": "woe",
+		"averageWordCounts": {
+			"common": 18.246376811594203,
+			"uncommon": 27.339285714285715,
+			"rare": 36.9,
+			"overall": 26.485714285714284
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 27.797101449275363,
+			"uncommon": 35.625,
+			"rare": 40.54,
+			"overall": 33.94285714285714
+		}
+	},
+	{
+		"name": "March of the Machine: The Aftermath",
+		"code": "mat",
+		"averageWordCounts": {
+			"common": null,
+			"uncommon": 28.133333333333333,
+			"rare": 41.714285714285715,
+			"overall": 37.64
+		},
+		"averageWordCountsWithReminderText": {
+			"common": null,
+			"uncommon": 34.06666666666667,
+			"rare": 43.6,
+			"overall": 40.74
+		}
+	},
+	{
+		"name": "March of the Machine",
+		"code": "mom",
+		"averageWordCounts": {
+			"common": 15.32857142857143,
+			"uncommon": 30.857142857142858,
+			"rare": 48.089285714285715,
+			"overall": 30.16
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 28.7,
+			"uncommon": 50.857142857142854,
+			"rare": 61.875,
+			"overall": 45.52
+		}
+	},
+	{
+		"name": "Phyrexia: All Will Be One",
+		"code": "one",
+		"averageWordCounts": {
+			"common": 20.506666666666668,
+			"uncommon": 26.979166666666668,
+			"rare": 40.63461538461539,
+			"overall": 28.262857142857143
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 27.76,
+			"uncommon": 32.229166666666664,
+			"rare": 45.46153846153846,
+			"overall": 34.245714285714286
+		}
+	},
+	{
+		"name": "The Brothers' War",
+		"code": "bro",
+		"averageWordCounts": {
+			"common": 16.476190476190474,
+			"uncommon": 23.303571428571427,
+			"rare": 34.785714285714285,
+			"overall": 24.52
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 23.38095238095238,
+			"uncommon": 29.946428571428573,
+			"rare": 39.142857142857146,
+			"overall": 30.525714285714287
+		}
+	},
+	{
+		"name": "Dominaria United",
+		"code": "dmu",
+		"averageWordCounts": {
+			"common": 15.01388888888889,
+			"uncommon": 29.444444444444443,
+			"rare": 42.204081632653065,
+			"overall": 27.08
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 22.333333333333332,
+			"uncommon": 36.74074074074074,
+			"rare": 44.83673469387755,
+			"overall": 33.08
+		}
+	},
+	{
+		"name": "Streets of New Capenna",
+		"code": "snc",
+		"averageWordCounts": {
+			"common": 19.022988505747126,
+			"uncommon": 26.54901960784314,
+			"rare": 31.10810810810811,
+			"overall": 23.771428571428572
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 25.160919540229884,
+			"uncommon": 31.294117647058822,
+			"rare": 35.83783783783784,
+			"overall": 29.205714285714286
+		}
+	},
+	{
+		"name": "Kamigawa: Neon Dynasty",
+		"code": "neo",
+		"averageWordCounts": {
+			"common": 21,
+			"uncommon": 29.31578947368421,
+			"rare": 42.979166666666664,
+			"overall": 29.737142857142857
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 25.771428571428572,
+			"uncommon": 36.70175438596491,
+			"rare": 48.041666666666664,
+			"overall": 35.44
+		}
+	},
+	{
+		"name": "Innistrad: Crimson Vow",
+		"code": "vow",
+		"averageWordCounts": {
+			"common": 17.483870967741936,
+			"uncommon": 32.32727272727273,
+			"rare": 41.62068965517241,
+			"overall": 30.14857142857143
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 26.258064516129032,
+			"uncommon": 39.45454545454545,
+			"rare": 46.775862068965516,
+			"overall": 37.205714285714286
+		}
+	},
+	{
+		"name": "Innistrad: Midnight Hunt",
+		"code": "mid",
+		"averageWordCounts": {
+			"common": 18.814285714285713,
+			"uncommon": 28.589285714285715,
+			"rare": 38.265306122448976,
+			"overall": 27.388571428571428
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 24.228571428571428,
+			"uncommon": 38.160714285714285,
+			"rare": 45.857142857142854,
+			"overall": 34.74285714285714
+		}
+	},
+	{
+		"name": "Adventures in the Forgotten Realms",
+		"code": "afr",
+		"averageWordCounts": {
+			"common": 19.55223880597015,
+			"uncommon": 31.29310344827586,
+			"rare": 42.76,
+			"overall": 30.074285714285715
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 24.149253731343283,
+			"uncommon": 36.12068965517241,
+			"rare": 45.48,
+			"overall": 34.21142857142857
+		}
+	},
+	{
+		"name": "Strixhaven: School of Mages",
+		"code": "stx",
+		"averageWordCounts": {
+			"common": 14.84375,
+			"uncommon": 24.943396226415093,
+			"rare": 41.293103448275865,
+			"overall": 26.66857142857143
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 19.609375,
+			"uncommon": 28.056603773584907,
+			"rare": 42.689655172413794,
+			"overall": 29.81714285714286
+		}
+	},
+	{
+		"name": "Kaldheim",
+		"code": "khm",
+		"averageWordCounts": {
+			"common": 12.161290322580646,
+			"uncommon": 29.950819672131146,
+			"rare": 35.34615384615385,
+			"overall": 25.251428571428573
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 19.741935483870968,
+			"uncommon": 36.75409836065574,
+			"rare": 41.09615384615385,
+			"overall": 32.01714285714286
+		}
+	},
+	{
+		"name": "Zendikar Rising",
+		"code": "znr",
+		"averageWordCounts": {
+			"common": 16.62121212121212,
+			"uncommon": 24.897959183673468,
+			"rare": 37.7,
+			"overall": 26.165714285714287
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 21.666666666666668,
+			"uncommon": 28.3265306122449,
+			"rare": 38.53333333333333,
+			"overall": 29.314285714285713
+		}
+	},
+	{
+		"name": "Core Set 2021",
+		"code": "m21",
+		"averageWordCounts": {
+			"common": 12.319444444444445,
+			"uncommon": 22.153846153846153,
+			"rare": 35.64705882352941,
+			"overall": 22.04
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 16.416666666666668,
+			"uncommon": 25.23076923076923,
+			"rare": 36.64705882352941,
+			"overall": 24.931428571428572
+		}
+	},
+	{
+		"name": "Ikoria: Lair of Behemoths",
+		"code": "iko",
+		"averageWordCounts": {
+			"common": 13.925925925925926,
+			"uncommon": 21.836734693877553,
+			"rare": 32.82222222222222,
+			"overall": 21
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 17.382716049382715,
+			"uncommon": 31.6734693877551,
+			"rare": 42.08888888888889,
+			"overall": 27.737142857142857
+		}
+	},
+	{
+		"name": "Theros Beyond Death",
+		"code": "thb",
+		"averageWordCounts": {
+			"common": 14.294117647058824,
+			"uncommon": 26.545454545454547,
+			"rare": 33.73076923076923,
+			"overall": 23.92
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 16.470588235294116,
+			"uncommon": 30.563636363636363,
+			"rare": 36,
+			"overall": 26.702857142857145
+		}
+	},
+	{
+		"name": "Throne of Eldraine",
+		"code": "eld",
+		"averageWordCounts": {
+			"common": 16.29230769230769,
+			"uncommon": 21.153846153846153,
+			"rare": 33.793103448275865,
+			"overall": 23.537142857142857
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 21.384615384615383,
+			"uncommon": 25.615384615384617,
+			"rare": 35.46551724137931,
+			"overall": 27.30857142857143
+		}
+	},
+	{
+		"name": "Core Set 2020",
+		"code": "m20",
+		"averageWordCounts": {
+			"common": 11.216867469879517,
+			"uncommon": 16.906976744186046,
+			"rare": 36.265306122448976,
+			"overall": 19.62857142857143
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 13.397590361445783,
+			"uncommon": 21.093023255813954,
+			"rare": 38,
+			"overall": 22.177142857142858
+		}
+	},
+	{
+		"name": "War of the Spark",
+		"code": "war",
+		"averageWordCounts": {
+			"common": 12.030303030303031,
+			"uncommon": 22.233333333333334,
+			"rare": 39.93877551020408,
+			"overall": 23.34285714285714
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 17.348484848484848,
+			"uncommon": 27.333333333333332,
+			"rare": 42.6530612244898,
+			"overall": 27.857142857142858
+		}
+	},
+	{
+		"name": "Ravnica Allegiance",
+		"code": "rna",
+		"averageWordCounts": {
+			"common": 11.492957746478874,
+			"uncommon": 22.169811320754718,
+			"rare": 30.96078431372549,
+			"overall": 20.4
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 14.67605633802817,
+			"uncommon": 26.07547169811321,
+			"rare": 33.03921568627451,
+			"overall": 23.48
+		}
+	},
+	{
+		"name": "Guilds of Ravnica",
+		"code": "grn",
+		"averageWordCounts": {
+			"common": 10.710144927536232,
+			"uncommon": 19.637931034482758,
+			"rare": 27.5,
+			"overall": 18.274285714285714
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 16.942028985507246,
+			"uncommon": 25.844827586206897,
+			"rare": 31.833333333333332,
+			"overall": 23.97714285714286
+		}
+	},
+	{
+		"name": "Core Set 2019",
+		"code": "m19",
+		"averageWordCounts": {
+			"common": 8.567567567567568,
+			"uncommon": 16.365384615384617,
+			"rare": 28.183673469387756,
+			"overall": 16.377142857142857
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 11.216216216216216,
+			"uncommon": 19.076923076923077,
+			"rare": 29.3265306122449,
+			"overall": 18.622857142857143
+		}
+	},
+	{
+		"name": "Dominaria",
+		"code": "dom",
+		"averageWordCounts": {
+			"common": 12.976190476190476,
+			"uncommon": 20.477272727272727,
+			"rare": 27.97872340425532,
+			"overall": 18.89142857142857
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 16.797619047619047,
+			"uncommon": 23.568181818181817,
+			"rare": 31.51063829787234,
+			"overall": 22.451428571428572
+		}
+	},
+	{
+		"name": "Rivals of Ixalan",
+		"code": "rix",
+		"averageWordCounts": {
+			"common": 10.457142857142857,
+			"uncommon": 18.719298245614034,
+			"rare": 32.270833333333336,
+			"overall": 19.13142857142857
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 13.642857142857142,
+			"uncommon": 23.12280701754386,
+			"rare": 36.395833333333336,
+			"overall": 22.97142857142857
+		}
+	},
+	{
+		"name": "Ixalan",
+		"code": "xln",
+		"averageWordCounts": {
+			"common": 10.67605633802817,
+			"uncommon": 16.703703703703702,
+			"rare": 28.7,
+			"overall": 17.685714285714287
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 15.492957746478874,
+			"uncommon": 19.61111111111111,
+			"rare": 31.88,
+			"overall": 21.445714285714285
+		}
+	},
+	{
+		"name": "Hour of Devastation",
+		"code": "hou",
+		"averageWordCounts": {
+			"common": 10.602941176470589,
+			"uncommon": 20.527272727272727,
+			"rare": 29.346153846153847,
+			"overall": 19.291428571428572
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 15.352941176470589,
+			"uncommon": 26.09090909090909,
+			"rare": 34.40384615384615,
+			"overall": 24.388571428571428
+		}
+	},
+	{
+		"name": "Amonkhet",
+		"code": "akh",
+		"averageWordCounts": {
+			"common": 12.555555555555555,
+			"uncommon": 20.44,
+			"rare": 29.60377358490566,
+			"overall": 19.97142857142857
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 16.458333333333332,
+			"uncommon": 24.6,
+			"rare": 35.79245283018868,
+			"overall": 24.64
+		}
+	},
+	{
+		"name": "Aether Revolt",
+		"code": "aer",
+		"averageWordCounts": {
+			"common": 15.044776119402986,
+			"uncommon": 20.64814814814815,
+			"rare": 29.555555555555557,
+			"overall": 21.251428571428573
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 18.776119402985074,
+			"uncommon": 24.074074074074073,
+			"rare": 32.72222222222222,
+			"overall": 24.714285714285715
+		}
+	},
+	{
+		"name": "Kaladesh",
+		"code": "kld",
+		"averageWordCounts": {
+			"common": 12.901639344262295,
+			"uncommon": 17.586206896551722,
+			"rare": 32.607142857142854,
+			"overall": 20.76
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 17.60655737704918,
+			"uncommon": 20.810344827586206,
+			"rare": 35.07142857142857,
+			"overall": 24.257142857142856
+		}
+	},
+	{
+		"name": "Eldritch Moon",
+		"code": "emn",
+		"averageWordCounts": {
+			"common": 14.362068965517242,
+			"uncommon": 23.333333333333332,
+			"rare": 30.203703703703702,
+			"overall": 22.48
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 18.03448275862069,
+			"uncommon": 27.49206349206349,
+			"rare": 33.74074074074074,
+			"overall": 26.285714285714285
+		}
+	},
+	{
+		"name": "Shadows over Innistrad",
+		"code": "soi",
+		"averageWordCounts": {
+			"common": 13.716666666666667,
+			"uncommon": 23.876923076923077,
+			"rare": 30.46,
+			"overall": 22.274285714285714
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 19.8,
+			"uncommon": 28.246153846153845,
+			"rare": 33.36,
+			"overall": 26.81142857142857
+		}
+	},
+	{
+		"name": "Oath of the Gatewatch",
+		"code": "ogw",
+		"averageWordCounts": {
+			"common": 11.569230769230769,
+			"uncommon": 17.810344827586206,
+			"rare": 29.365384615384617,
+			"overall": 18.925714285714285
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 18.06153846153846,
+			"uncommon": 22.310344827586206,
+			"rare": 33.19230769230769,
+			"overall": 23.965714285714284
+		}
+	},
+	{
+		"name": "Battle for Zendikar",
+		"code": "bfz",
+		"averageWordCounts": {
+			"common": 13.73611111111111,
+			"uncommon": 19.30188679245283,
+			"rare": 29.04,
+			"overall": 19.794285714285714
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 18.48611111111111,
+			"uncommon": 24.37735849056604,
+			"rare": 32.32,
+			"overall": 24.222857142857144
+		}
+	},
+	{
+		"name": "Magic Origins",
+		"code": "ori",
+		"averageWordCounts": {
+			"common": 12.306666666666667,
+			"uncommon": 17.25,
+			"rare": 31.053571428571427,
+			"overall": 19.548571428571428
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 17.346666666666668,
+			"uncommon": 23.295454545454547,
+			"rare": 36.767857142857146,
+			"overall": 25.057142857142857
+		}
+	},
+	{
+		"name": "Dragons of Tarkir",
+		"code": "dtk",
+		"averageWordCounts": {
+			"common": 10.698630136986301,
+			"uncommon": 17.958333333333332,
+			"rare": 29.5,
+			"overall": 18.49142857142857
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 19.876712328767123,
+			"uncommon": 27.8125,
+			"rare": 35.2037037037037,
+			"overall": 26.782857142857143
+		}
+	},
+	{
+		"name": "Fate Reforged",
+		"code": "frf",
+		"averageWordCounts": {
+			"common": 12.88888888888889,
+			"uncommon": 19.559322033898304,
+			"rare": 29.704545454545453,
+			"overall": 19.365714285714287
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 18.805555555555557,
+			"uncommon": 26.593220338983052,
+			"rare": 38.93181818181818,
+			"overall": 26.49142857142857
+		}
+	},
+	{
+		"name": "Khans of Tarkir",
+		"code": "ktk",
+		"averageWordCounts": {
+			"common": 11.52112676056338,
+			"uncommon": 17.4,
+			"rare": 23.285714285714285,
+			"overall": 16.662857142857142
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 18.591549295774648,
+			"uncommon": 22.618181818181817,
+			"rare": 28.551020408163264,
+			"overall": 22.645714285714284
+		}
+	},
+	{
+		"name": "Magic 2015",
+		"code": "m15",
+		"averageWordCounts": {
+			"common": 9.61111111111111,
+			"uncommon": 15.672727272727272,
+			"rare": 27.375,
+			"overall": 16.388571428571428
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 14.63888888888889,
+			"uncommon": 22.2,
+			"rare": 31.4375,
+			"overall": 21.622857142857143
+		}
+	},
+	{
+		"name": "Journey into Nyx",
+		"code": "jou",
+		"averageWordCounts": {
+			"common": 14.683333333333334,
+			"uncommon": 20.9,
+			"rare": 25.88888888888889,
+			"overall": 20
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 18.066666666666666,
+			"uncommon": 26.166666666666668,
+			"rare": 27.733333333333334,
+			"overall": 23.64848484848485
+		}
+	},
+	{
+		"name": "Born of the Gods",
+		"code": "bng",
+		"averageWordCounts": {
+			"common": 11.95,
+			"uncommon": 19.2,
+			"rare": 27.2,
+			"overall": 18.745454545454546
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 18.733333333333334,
+			"uncommon": 27.033333333333335,
+			"rare": 34.62222222222222,
+			"overall": 26.084848484848486
+		}
+	},
+	{
+		"name": "Theros",
+		"code": "ths",
+		"averageWordCounts": {
+			"common": 10.58974358974359,
+			"uncommon": 18.591836734693878,
+			"rare": 26.3125,
+			"overall": 17.142857142857142
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 17.166666666666668,
+			"uncommon": 26.346938775510203,
+			"rare": 33.5625,
+			"overall": 24.234285714285715
+		}
+	},
+	{
+		"name": "Magic 2014",
+		"code": "m14",
+		"averageWordCounts": {
+			"common": 8.734939759036145,
+			"uncommon": 13.631578947368421,
+			"rare": 25.055555555555557,
+			"overall": 14.834285714285715
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 11.975903614457831,
+			"uncommon": 15.868421052631579,
+			"rare": 28.77777777777778,
+			"overall": 18.005714285714287
+		}
+	},
+	{
+		"name": "Dragon's Maze",
+		"code": "dgm",
+		"averageWordCounts": {
+			"common": 12.585714285714285,
+			"uncommon": 16.7,
+			"rare": 27.91304347826087,
+			"overall": 18.16025641025641
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 16.3,
+			"uncommon": 24.25,
+			"rare": 35.17391304347826,
+			"overall": 23.903846153846153
+		}
+	},
+	{
+		"name": "Gatecrash",
+		"code": "gtc",
+		"averageWordCounts": {
+			"common": 10.985294117647058,
+			"uncommon": 17.17543859649123,
+			"rare": 28.84,
+			"overall": 18.102857142857143
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 16.573529411764707,
+			"uncommon": 20.50877192982456,
+			"rare": 31.04,
+			"overall": 21.98857142857143
+		}
+	},
+	{
+		"name": "Return to Ravnica",
+		"code": "rtr",
+		"averageWordCounts": {
+			"common": 10.273972602739725,
+			"uncommon": 14.122448979591837,
+			"rare": 24.60377358490566,
+			"overall": 15.691428571428572
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 15.342465753424657,
+			"uncommon": 19.06122448979592,
+			"rare": 28.62264150943396,
+			"overall": 20.405714285714286
+		}
+	},
+	{
+		"name": "Magic 2013",
+		"code": "m13",
+		"averageWordCounts": {
+			"common": 8.256410256410257,
+			"uncommon": 16.294117647058822,
+			"rare": 20.652173913043477,
+			"overall": 13.857142857142858
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 11.256410256410257,
+			"uncommon": 23.11764705882353,
+			"rare": 22.782608695652176,
+			"overall": 17.742857142857144
+		}
+	},
+	{
+		"name": "Avacyn Restored",
+		"code": "avr",
+		"averageWordCounts": {
+			"common": 11.810126582278482,
+			"uncommon": 14.456521739130435,
+			"rare": 23.54,
+			"overall": 15.857142857142858
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 16.341772151898734,
+			"uncommon": 18.543478260869566,
+			"rare": 27.6,
+			"overall": 20.13714285714286
+		}
+	},
+	{
+		"name": "Dark Ascension",
+		"code": "dka",
+		"averageWordCounts": {
+			"common": 13.15625,
+			"uncommon": 18.545454545454547,
+			"rare": 28.6,
+			"overall": 19.544303797468356
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 19.046875,
+			"uncommon": 25.045454545454547,
+			"rare": 33.56,
+			"overall": 25.310126582278482
+		}
+	},
+	{
+		"name": "Innistrad",
+		"code": "isd",
+		"averageWordCounts": {
+			"common": 12.416666666666666,
+			"uncommon": 16.91304347826087,
+			"rare": 26.49122807017544,
+			"overall": 18.18285714285714
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 15.833333333333334,
+			"uncommon": 19.73913043478261,
+			"rare": 28.649122807017545,
+			"overall": 21.034285714285716
+		}
+	},
+	{
+		"name": "Magic 2012",
+		"code": "m12",
+		"averageWordCounts": {
+			"common": 8.511904761904763,
+			"uncommon": 13.476190476190476,
+			"rare": 22.79591836734694,
+			"overall": 13.702857142857143
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 11.785714285714286,
+			"uncommon": 16.928571428571427,
+			"rare": 25.571428571428573,
+			"overall": 16.88
+		}
+	},
+	{
+		"name": "New Phyrexia",
+		"code": "nph",
+		"averageWordCounts": {
+			"common": 10.446153846153846,
+			"uncommon": 18.966666666666665,
+			"rare": 26.644444444444446,
+			"overall": 17.741176470588236
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 17.4,
+			"uncommon": 24.533333333333335,
+			"rare": 30.266666666666666,
+			"overall": 23.323529411764707
+		}
+	},
+	{
+		"name": "Mirrodin Besieged",
+		"code": "mbs",
+		"averageWordCounts": {
+			"common": 9.446153846153846,
+			"uncommon": 14.325,
+			"rare": 23.355555555555554,
+			"overall": 14.92
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 14.384615384615385,
+			"uncommon": 21.55,
+			"rare": 26.533333333333335,
+			"overall": 19.94
+		}
+	},
+	{
+		"name": "Scars of Mirrodin",
+		"code": "som",
+		"averageWordCounts": {
+			"common": 13.246753246753247,
+			"uncommon": 16.733333333333334,
+			"rare": 25.830188679245282,
+			"overall": 17.954285714285714
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 16.064935064935064,
+			"uncommon": 20.822222222222223,
+			"rare": 29.18867924528302,
+			"overall": 21.262857142857143
+		}
+	},
+	{
+		"name": "Magic 2011",
+		"code": "m11",
+		"averageWordCounts": {
+			"common": 8.30379746835443,
+			"uncommon": 11.477272727272727,
+			"rare": 24.71153846153846,
+			"overall": 13.977142857142857
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 10.670886075949367,
+			"uncommon": 13.954545454545455,
+			"rare": 25.576923076923077,
+			"overall": 15.925714285714285
+		}
+	},
+	{
+		"name": "Rise of the Eldrazi",
+		"code": "roe",
+		"averageWordCounts": {
+			"common": 12.95,
+			"uncommon": 17.08888888888889,
+			"rare": 22.4,
+			"overall": 16.714285714285715
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 15.8125,
+			"uncommon": 23.11111111111111,
+			"rare": 27.88,
+			"overall": 21.13714285714286
+		}
+	},
+	{
+		"name": "Worldwake",
+		"code": "wwk",
+		"averageWordCounts": {
+			"common": 18.25,
+			"uncommon": 24.125,
+			"rare": 27.155555555555555,
+			"overall": 22.63448275862069
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 20.633333333333333,
+			"uncommon": 27.025,
+			"rare": 29.466666666666665,
+			"overall": 25.137931034482758
+		}
+	},
+	{
+		"name": "Zendikar",
+		"code": "zen",
+		"averageWordCounts": {
+			"common": 15.3,
+			"uncommon": 24.170212765957448,
+			"rare": 29.344827586206897,
+			"overall": 22.337142857142858
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 18.542857142857144,
+			"uncommon": 26.46808510638298,
+			"rare": 31.086206896551722,
+			"overall": 24.82857142857143
+		}
+	},
+	{
+		"name": "Magic 2010",
+		"code": "m10",
+		"averageWordCounts": {
+			"common": 6.918918918918919,
+			"uncommon": 12.130434782608695,
+			"rare": 20.2,
+			"overall": 12.462857142857143
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 9.58108108108108,
+			"uncommon": 14.717391304347826,
+			"rare": 22.927272727272726,
+			"overall": 15.125714285714286
+		}
+	},
+	{
+		"name": "Alara Reborn",
+		"code": "arb",
+		"averageWordCounts": {
+			"common": 13.85,
+			"uncommon": 14.4,
+			"rare": 22.08888888888889,
+			"overall": 16.55862068965517
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 24.216666666666665,
+			"uncommon": 22.95,
+			"rare": 25.88888888888889,
+			"overall": 24.386206896551723
+		}
+	},
+	{
+		"name": "Conflux",
+		"code": "con",
+		"averageWordCounts": {
+			"common": 13.883333333333333,
+			"uncommon": 15.125,
+			"rare": 22.31111111111111,
+			"overall": 16.841379310344827
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 18.616666666666667,
+			"uncommon": 19.975,
+			"rare": 24.8,
+			"overall": 20.910344827586208
+		}
+	},
+	{
+		"name": "Shards of Alara",
+		"code": "ala",
+		"averageWordCounts": {
+			"common": 11.225,
+			"uncommon": 16.6,
+			"rare": 23,
+			"overall": 15.971428571428572
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 14.725,
+			"uncommon": 20.155555555555555,
+			"rare": 26.68,
+			"overall": 19.537142857142857
+		}
+	},
+	{
+		"name": "Eventide",
+		"code": "eve",
+		"averageWordCounts": {
+			"common": 15.491228070175438,
+			"uncommon": 21.406779661016948,
+			"rare": 22.8135593220339,
+			"overall": 19.954285714285714
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 22.45614035087719,
+			"uncommon": 25.627118644067796,
+			"rare": 26.593220338983052,
+			"overall": 24.92
+		}
+	},
+	{
+		"name": "Shadowmoor",
+		"code": "shm",
+		"averageWordCounts": {
+			"common": 13.31081081081081,
+			"uncommon": 16.67924528301887,
+			"rare": 20.6875,
+			"overall": 16.354285714285716
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 19.527027027027028,
+			"uncommon": 20.88679245283019,
+			"rare": 23.541666666666668,
+			"overall": 21.04
+		}
+	},
+	{
+		"name": "Morningtide",
+		"code": "mor",
+		"averageWordCounts": {
+			"common": 17.65,
+			"uncommon": 26.075,
+			"rare": 24.98,
+			"overall": 22.34
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 21.283333333333335,
+			"uncommon": 34.85,
+			"rare": 30.4,
+			"overall": 27.94
+		}
+	},
+	{
+		"name": "Lorwyn",
+		"code": "lrw",
+		"averageWordCounts": {
+			"common": 14.083333333333334,
+			"uncommon": 20.09259259259259,
+			"rare": 28.06122448979592,
+			"overall": 19.85142857142857
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 20.38888888888889,
+			"uncommon": 25.12962962962963,
+			"rare": 31.244897959183675,
+			"overall": 24.89142857142857
+		}
+	},
+	{
+		"name": "Tenth Edition",
+		"code": "10e",
+		"averageWordCounts": {
+			"common": 8.40625,
+			"uncommon": 12.709090909090909,
+			"rare": 15.553571428571429,
+			"overall": 12.045714285714286
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 11.78125,
+			"uncommon": 14.472727272727273,
+			"rare": 17.392857142857142,
+			"overall": 14.422857142857143
+		}
+	},
+	{
+		"name": "Future Sight",
+		"code": "fut",
+		"averageWordCounts": {
+			"common": 13.827586206896552,
+			"uncommon": 18,
+			"rare": 23.733333333333334,
+			"overall": 18.582857142857144
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 27.551724137931036,
+			"uncommon": 31.56140350877193,
+			"rare": 31.433333333333334,
+			"overall": 30.18857142857143
+		}
+	},
+	{
+		"name": "Planar Chaos",
+		"code": "plc",
+		"averageWordCounts": {
+			"common": 16.316666666666666,
+			"uncommon": 20.89090909090909,
+			"rare": 24.24,
+			"overall": 20.242424242424242
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 24.133333333333333,
+			"uncommon": 28.527272727272727,
+			"rare": 32.58,
+			"overall": 28.157575757575756
+		}
+	},
+	{
+		"name": "Time Spiral Timeshifted",
+		"code": "tsb",
+		"averageWordCounts": {
+			"common": null,
+			"uncommon": null,
+			"rare": null,
+			"overall": 19.94214876033058
+		},
+		"averageWordCountsWithReminderText": {
+			"common": null,
+			"uncommon": null,
+			"rare": null,
+			"overall": 23.8099173553719
+		}
+	},
+	{
+		"name": "Time Spiral",
+		"code": "tsp",
+		"averageWordCounts": {
+			"common": 14.397590361445783,
+			"uncommon": 22.4375,
+			"rare": 25.977272727272727,
+			"overall": 19.514285714285716
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 24.879518072289155,
+			"uncommon": 31.041666666666668,
+			"rare": 33.79545454545455,
+			"overall": 28.81142857142857
+		}
+	},
+	{
+		"name": "Coldsnap",
+		"code": "csp",
+		"averageWordCounts": {
+			"common": 13.45,
+			"uncommon": 18.745454545454546,
+			"rare": 26.7,
+			"overall": 18.748387096774195
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 22.7,
+			"uncommon": 28.581818181818182,
+			"rare": 36.05,
+			"overall": 28.232258064516127
+		}
+	},
+	{
+		"name": "Dissension",
+		"code": "dis",
+		"averageWordCounts": {
+			"common": 15.824561403508772,
+			"uncommon": 22.016666666666666,
+			"rare": 27.379310344827587,
+			"overall": 21.777142857142856
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 19.771929824561404,
+			"uncommon": 25.333333333333332,
+			"rare": 30.74137931034483,
+			"overall": 25.314285714285713
+		}
+	},
+	{
+		"name": "Guildpact",
+		"code": "gpt",
+		"averageWordCounts": {
+			"common": 14.272727272727273,
+			"uncommon": 15.581818181818182,
+			"rare": 23.618181818181817,
+			"overall": 17.824242424242424
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 19.854545454545455,
+			"uncommon": 19.327272727272728,
+			"rare": 27.563636363636363,
+			"overall": 22.24848484848485
+		}
+	},
+	{
+		"name": "Ravnica: City of Guilds",
+		"code": "rav",
+		"averageWordCounts": {
+			"common": 12.53968253968254,
+			"uncommon": 15.907407407407407,
+			"rare": 23.17241379310345,
+			"overall": 17.102857142857143
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 19.38095238095238,
+			"uncommon": 22.037037037037038,
+			"rare": 27.120689655172413,
+			"overall": 22.765714285714285
+		}
+	},
+	{
+		"name": "Ninth Edition",
+		"code": "9ed",
+		"averageWordCounts": {
+			"common": 6.1875,
+			"uncommon": 9.771929824561404,
+			"rare": 14.555555555555555,
+			"overall": 9.937142857142858
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 9.9375,
+			"uncommon": 11.807017543859649,
+			"rare": 17.074074074074073,
+			"overall": 12.748571428571429
+		}
+	},
+	{
+		"name": "Saviors of Kamigawa",
+		"code": "sok",
+		"averageWordCounts": {
+			"common": 16.181818181818183,
+			"uncommon": 19,
+			"rare": 25.6,
+			"overall": 20.26060606060606
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 21.509090909090908,
+			"uncommon": 22.181818181818183,
+			"rare": 28.963636363636365,
+			"overall": 24.21818181818182
+		}
+	},
+	{
+		"name": "Betrayers of Kamigawa",
+		"code": "bok",
+		"averageWordCounts": {
+			"common": 16.581818181818182,
+			"uncommon": 25,
+			"rare": 23.69090909090909,
+			"overall": 21.757575757575758
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 23.836363636363636,
+			"uncommon": 29.745454545454546,
+			"rare": 29.727272727272727,
+			"overall": 27.76969696969697
+		}
+	},
+	{
+		"name": "Champions of Kamigawa",
+		"code": "chk",
+		"averageWordCounts": {
+			"common": 14.63768115942029,
+			"uncommon": 17.38,
+			"rare": 24.839285714285715,
+			"overall": 18.685714285714287
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 20.26086956521739,
+			"uncommon": 21.72,
+			"rare": 26.25,
+			"overall": 22.594285714285714
+		}
+	},
+	{
+		"name": "Fifth Dawn",
+		"code": "5dn",
+		"averageWordCounts": {
+			"common": 13.49090909090909,
+			"uncommon": 13.418181818181818,
+			"rare": 21.963636363636365,
+			"overall": 16.29090909090909
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 21.418181818181818,
+			"uncommon": 17.581818181818182,
+			"rare": 25.12727272727273,
+			"overall": 21.375757575757575
+		}
+	},
+	{
+		"name": "Darksteel",
+		"code": "dst",
+		"averageWordCounts": {
+			"common": 10.963636363636363,
+			"uncommon": 20.381818181818183,
+			"rare": 23.10909090909091,
+			"overall": 18.151515151515152
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 16.618181818181817,
+			"uncommon": 24.618181818181817,
+			"rare": 27.345454545454544,
+			"overall": 22.86060606060606
+		}
+	},
+	{
+		"name": "Mirrodin",
+		"code": "mrd",
+		"averageWordCounts": {
+			"common": 11.114285714285714,
+			"uncommon": 16.28846153846154,
+			"rare": 24.132075471698112,
+			"overall": 16.594285714285714
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 13,
+			"uncommon": 19.96153846153846,
+			"rare": 25.830188679245282,
+			"overall": 18.954285714285714
+		}
+	},
+	{
+		"name": "Eighth Edition",
+		"code": "8ed",
+		"averageWordCounts": {
+			"common": 6.566666666666666,
+			"uncommon": 10.596491228070175,
+			"rare": 13.913793103448276,
+			"overall": 10.314285714285715
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 9.516666666666667,
+			"uncommon": 11.105263157894736,
+			"rare": 15.344827586206897,
+			"overall": 11.965714285714286
+		}
+	},
+	{
+		"name": "Scourge",
+		"code": "scg",
+		"averageWordCounts": {
+			"common": 15.036363636363637,
+			"uncommon": 16.40909090909091,
+			"rare": 24.386363636363637,
+			"overall": 18.335664335664337
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 22.98181818181818,
+			"uncommon": 22.59090909090909,
+			"rare": 29.5,
+			"overall": 24.867132867132867
+		}
+	},
+	{
+		"name": "Legions",
+		"code": "lgn",
+		"averageWordCounts": {
+			"common": 11.6,
+			"uncommon": 13.933333333333334,
+			"rare": 19.933333333333334,
+			"overall": 14.910344827586206
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 21,
+			"uncommon": 21.88888888888889,
+			"rare": 27.955555555555556,
+			"overall": 23.43448275862069
+		}
+	},
+	{
+		"name": "Onslaught",
+		"code": "ons",
+		"averageWordCounts": {
+			"common": 14.31578947368421,
+			"uncommon": 18.50793650793651,
+			"rare": 20.963636363636365,
+			"overall": 17.914285714285715
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 21.087719298245613,
+			"uncommon": 23.396825396825395,
+			"rare": 24.327272727272728,
+			"overall": 22.937142857142856
+		}
+	},
+	{
+		"name": "Judgment",
+		"code": "jud",
+		"averageWordCounts": {
+			"common": 16.6,
+			"uncommon": 23.045454545454547,
+			"rare": 23.75,
+			"overall": 20.783216783216783
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 18.87272727272727,
+			"uncommon": 26.34090909090909,
+			"rare": 25.90909090909091,
+			"overall": 23.335664335664337
+		}
+	},
+	{
+		"name": "Torment",
+		"code": "tor",
+		"averageWordCounts": {
+			"common": 18.8,
+			"uncommon": 21.34090909090909,
+			"rare": 24.227272727272727,
+			"overall": 21.251748251748253
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 22.581818181818182,
+			"uncommon": 25.568181818181817,
+			"rare": 25.477272727272727,
+			"overall": 24.39160839160839
+		}
+	},
+	{
+		"name": "Odyssey",
+		"code": "ody",
+		"averageWordCounts": {
+			"common": 15.064516129032258,
+			"uncommon": 16.73076923076923,
+			"rare": 21.75409836065574,
+			"overall": 17.89142857142857
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 18.725806451612904,
+			"uncommon": 19.115384615384617,
+			"rare": 23.37704918032787,
+			"overall": 20.462857142857143
+		}
+	},
+	{
+		"name": "Apocalypse",
+		"code": "apc",
+		"averageWordCounts": {
+			"common": 16.69090909090909,
+			"uncommon": 26.204545454545453,
+			"rare": 24.068181818181817,
+			"overall": 21.888111888111887
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 17.636363636363637,
+			"uncommon": 27.681818181818183,
+			"rare": 26.136363636363637,
+			"overall": 23.342657342657343
+		}
+	},
+	{
+		"name": "Seventh Edition",
+		"code": "7ed",
+		"averageWordCounts": {
+			"common": 7.607142857142857,
+			"uncommon": 9.618181818181819,
+			"rare": 11.921875,
+			"overall": 9.817142857142857
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 9.839285714285714,
+			"uncommon": 10.927272727272728,
+			"rare": 13.734375,
+			"overall": 11.605714285714285
+		}
+	},
+	{
+		"name": "Planeshift",
+		"code": "pls",
+		"averageWordCounts": {
+			"common": 17.78181818181818,
+			"uncommon": 22.931818181818183,
+			"rare": 24.613636363636363,
+			"overall": 21.46853146853147
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 20.2,
+			"uncommon": 24.795454545454547,
+			"rare": 26.431818181818183,
+			"overall": 23.53146853146853
+		}
+	},
+	{
+		"name": "Invasion",
+		"code": "inv",
+		"averageWordCounts": {
+			"common": 13.948275862068966,
+			"uncommon": 16.9811320754717,
+			"rare": 20.734375,
+			"overall": 17.34857142857143
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 17.46551724137931,
+			"uncommon": 17.92452830188679,
+			"rare": 22.328125,
+			"overall": 19.382857142857144
+		}
+	},
+	{
+		"name": "Prophecy",
+		"code": "pcy",
+		"averageWordCounts": {
+			"common": 13.89090909090909,
+			"uncommon": 16.65909090909091,
+			"rare": 21.977272727272727,
+			"overall": 17.23076923076923
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 14.836363636363636,
+			"uncommon": 17.727272727272727,
+			"rare": 22.772727272727273,
+			"overall": 18.167832167832167
+		}
+	},
+	{
+		"name": "Nemesis",
+		"code": "nem",
+		"averageWordCounts": {
+			"common": 14.763636363636364,
+			"uncommon": 18.931818181818183,
+			"rare": 23.295454545454547,
+			"overall": 18.67132867132867
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 18.745454545454546,
+			"uncommon": 22.84090909090909,
+			"rare": 28.431818181818183,
+			"overall": 22.986013986013987
+		}
+	},
+	{
+		"name": "Mercadian Masques",
+		"code": "mmq",
+		"averageWordCounts": {
+			"common": 12.793103448275861,
+			"uncommon": 16.636363636363637,
+			"rare": 19.822580645161292,
+			"overall": 16.49142857142857
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 14.482758620689655,
+			"uncommon": 17.345454545454544,
+			"rare": 20.838709677419356,
+			"overall": 17.634285714285713
+		}
+	},
+	{
+		"name": "Urza's Destiny",
+		"code": "uds",
+		"averageWordCounts": {
+			"common": 11.818181818181818,
+			"uncommon": 19.454545454545453,
+			"rare": 16.65909090909091,
+			"overall": 15.657342657342657
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 13.581818181818182,
+			"uncommon": 22.022727272727273,
+			"rare": 18.34090909090909,
+			"overall": 17.643356643356643
+		}
+	},
+	{
+		"name": "Classic Sixth Edition",
+		"code": "6ed",
+		"averageWordCounts": {
+			"common": 8.410714285714286,
+			"uncommon": 10.722222222222221,
+			"rare": 16.984615384615385,
+			"overall": 12.308571428571428
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 10.696428571428571,
+			"uncommon": 11.62962962962963,
+			"rare": 17.43076923076923,
+			"overall": 13.485714285714286
+		}
+	},
+	{
+		"name": "Urza's Legacy",
+		"code": "ulg",
+		"averageWordCounts": {
+			"common": 12.181818181818182,
+			"uncommon": 15.136363636363637,
+			"rare": 19.227272727272727,
+			"overall": 15.258741258741258
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 16.454545454545453,
+			"uncommon": 20.40909090909091,
+			"rare": 22.795454545454547,
+			"overall": 19.622377622377623
+		}
+	},
+	{
+		"name": "Urza's Saga",
+		"code": "usg",
+		"averageWordCounts": {
+			"common": 10.131147540983607,
+			"uncommon": 13.716981132075471,
+			"rare": 19.278688524590162,
+			"overall": 14.405714285714286
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 13.114754098360656,
+			"uncommon": 16,
+			"rare": 21.81967213114754,
+			"overall": 17.02285714285714
+		}
+	},
+	{
+		"name": "Exodus",
+		"code": "exo",
+		"averageWordCounts": {
+			"common": 13.090909090909092,
+			"uncommon": 17.5,
+			"rare": 23.568181818181817,
+			"overall": 17.67132867132867
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 16.2,
+			"uncommon": 20.727272727272727,
+			"rare": 25.704545454545453,
+			"overall": 20.517482517482517
+		}
+	},
+	{
+		"name": "Stronghold",
+		"code": "sth",
+		"averageWordCounts": {
+			"common": 11.763636363636364,
+			"uncommon": 18.59090909090909,
+			"rare": 21.25,
+			"overall": 16.783216783216783
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 13.963636363636363,
+			"uncommon": 21.795454545454547,
+			"rare": 23.181818181818183,
+			"overall": 19.20979020979021
+		}
+	},
+	{
+		"name": "Tempest",
+		"code": "tmp",
+		"averageWordCounts": {
+			"common": 10.048387096774194,
+			"uncommon": 16.1,
+			"rare": 21.396825396825395,
+			"overall": 15.862857142857143
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 14.016129032258064,
+			"uncommon": 18.82,
+			"rare": 22.6984126984127,
+			"overall": 18.514285714285716
+		}
+	},
+	{
+		"name": "Weatherlight",
+		"code": "wth",
+		"averageWordCounts": {
+			"common": 14.983870967741936,
+			"uncommon": 16.927272727272726,
+			"rare": 19.86,
+			"overall": 17.08383233532934
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 18.387096774193548,
+			"uncommon": 20.945454545454545,
+			"rare": 25.9,
+			"overall": 21.479041916167663
+		}
+	},
+	{
+		"name": "Fifth Edition",
+		"code": "5ed",
+		"averageWordCounts": {
+			"common": 12.722222222222221,
+			"uncommon": 13.944444444444445,
+			"rare": 19.3265306122449,
+			"overall": 14.948571428571428
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 15.583333333333334,
+			"uncommon": 15.277777777777779,
+			"rare": 20.714285714285715,
+			"overall": 16.925714285714285
+		}
+	},
+	{
+		"name": "Visions",
+		"code": "vis",
+		"averageWordCounts": {
+			"common": 16.177419354838708,
+			"uncommon": 20.727272727272727,
+			"rare": 24.8,
+			"overall": 20.25748502994012
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 19.274193548387096,
+			"uncommon": 25.436363636363637,
+			"rare": 28.42,
+			"overall": 24.04191616766467
+		}
+	},
+	{
+		"name": "Mirage",
+		"code": "mir",
+		"averageWordCounts": {
+			"common": 15.885245901639344,
+			"uncommon": 18.43103448275862,
+			"rare": 26.339285714285715,
+			"overall": 20.074285714285715
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 19.34426229508197,
+			"uncommon": 20.413793103448278,
+			"rare": 27.642857142857142,
+			"overall": 22.354285714285716
+		}
+	},
+	{
+		"name": "Alliances",
+		"code": "all",
+		"averageWordCounts": {
+			"common": 16.636363636363637,
+			"uncommon": 27.186046511627907,
+			"rare": 33.95652173913044,
+			"overall": 25.319444444444443
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 20.527272727272727,
+			"uncommon": 30.674418604651162,
+			"rare": 39.30434782608695,
+			"overall": 29.555555555555557
+		}
+	},
+	{
+		"name": "Homelands",
+		"code": "hml",
+		"averageWordCounts": {
+			"common": 18.630434782608695,
+			"uncommon": 18.22222222222222,
+			"rare": 21.142857142857142,
+			"overall": 19.452173913043477
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 19.02173913043478,
+			"uncommon": 18.48148148148148,
+			"rare": 25.047619047619047,
+			"overall": 21.095652173913045
+		}
+	},
+	{
+		"name": "Ice Age",
+		"code": "ice",
+		"averageWordCounts": {
+			"common": 16.575757575757574,
+			"uncommon": 22.272727272727273,
+			"rare": 28.666666666666668,
+			"overall": 22.097142857142856
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 21.303030303030305,
+			"uncommon": 26.054545454545455,
+			"rare": 34.833333333333336,
+			"overall": 26.97142857142857
+		}
+	},
+	{
+		"name": "Fourth Edition Foreign Black Border",
+		"code": "4bb",
+		"averageWordCounts": {
+			"common": 11.203125,
+			"uncommon": 14.660714285714286,
+			"rare": 20.854545454545455,
+			"overall": 15.342857142857143
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 14.921875,
+			"uncommon": 15.732142857142858,
+			"rare": 23.363636363636363,
+			"overall": 17.834285714285713
+		}
+	},
+	{
+		"name": "Fourth Edition",
+		"code": "4ed",
+		"averageWordCounts": {
+			"common": 11.203125,
+			"uncommon": 14.660714285714286,
+			"rare": 20.854545454545455,
+			"overall": 15.342857142857143
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 14.921875,
+			"uncommon": 15.732142857142858,
+			"rare": 23.363636363636363,
+			"overall": 17.834285714285713
+		}
+	},
+	{
+		"name": "Fallen Empires",
+		"code": "fem",
+		"averageWordCounts": {
+			"common": 21.166666666666668,
+			"uncommon": 26.766666666666666,
+			"rare": 26.305555555555557,
+			"overall": 24.627450980392158
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 23.333333333333332,
+			"uncommon": 29.333333333333332,
+			"rare": 28.77777777777778,
+			"overall": 27.019607843137255
+		}
+	},
+	{
+		"name": "The Dark",
+		"code": "drk",
+		"averageWordCounts": {
+			"common": 11.225,
+			"uncommon": 19.636363636363637,
+			"rare": 24.62857142857143,
+			"overall": 18.277310924369747
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 13.85,
+			"uncommon": 20.613636363636363,
+			"rare": 28.65714285714286,
+			"overall": 20.705882352941178
+		}
+	},
+	{
+		"name": "Summer Magic / Edgar",
+		"code": "sum",
+		"averageWordCounts": {
+			"common": 10.851063829787234,
+			"uncommon": 14.754716981132075,
+			"rare": 19.04,
+			"overall": 15.542857142857143
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 14.680851063829786,
+			"uncommon": 15.735849056603774,
+			"rare": 21.773333333333333,
+			"overall": 18.04
+		}
+	},
+	{
+		"name": "Legends",
+		"code": "leg",
+		"averageWordCounts": {
+			"common": 13.693877551020408,
+			"uncommon": 15.947368421052632,
+			"rare": 22.217391304347824,
+			"overall": 17.78857142857143
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 14.877551020408163,
+			"uncommon": 21.75438596491228,
+			"rare": 25.27536231884058,
+			"overall": 21.217142857142857
+		}
+	},
+	{
+		"name": "Revised Edition",
+		"code": "3ed",
+		"averageWordCounts": {
+			"common": 10.851063829787234,
+			"uncommon": 14.754716981132075,
+			"rare": 19.04,
+			"overall": 15.542857142857143
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 14.680851063829786,
+			"uncommon": 15.735849056603774,
+			"rare": 21.773333333333333,
+			"overall": 18.04
+		}
+	},
+	{
+		"name": "Foreign Black Border",
+		"code": "fbb",
+		"averageWordCounts": {
+			"common": 10.851063829787234,
+			"uncommon": 14.754716981132075,
+			"rare": 19.04,
+			"overall": 15.542857142857143
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 14.680851063829786,
+			"uncommon": 15.735849056603774,
+			"rare": 21.773333333333333,
+			"overall": 18.04
+		}
+	},
+	{
+		"name": "Antiquities",
+		"code": "atq",
+		"averageWordCounts": {
+			"common": 15.481481481481481,
+			"uncommon": 21.210526315789473,
+			"rare": 29.45,
+			"overall": 21.32941176470588
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 17.296296296296298,
+			"uncommon": 21.473684210526315,
+			"rare": 36.85,
+			"overall": 23.764705882352942
+		}
+	},
+	{
+		"name": "Arabian Nights",
+		"code": "arn",
+		"averageWordCounts": {
+			"common": 13.518518518518519,
+			"uncommon": 21.22222222222222,
+			"rare": 22.818181818181817,
+			"overall": 19.23076923076923
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 19.51851851851852,
+			"uncommon": 22.055555555555557,
+			"rare": 23.545454545454547,
+			"overall": 21.807692307692307
+		}
+	},
+	{
+		"name": "Unlimited Edition",
+		"code": "2ed",
+		"averageWordCounts": {
+			"common": 11.148936170212766,
+			"uncommon": 16.089285714285715,
+			"rare": 19.819444444444443,
+			"overall": 16.297142857142855
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 14.97872340425532,
+			"uncommon": 17.089285714285715,
+			"rare": 21.88888888888889,
+			"overall": 18.497142857142858
+		}
+	},
+	{
+		"name": "Limited Edition Beta",
+		"code": "leb",
+		"averageWordCounts": {
+			"common": 11.148936170212766,
+			"uncommon": 16.089285714285715,
+			"rare": 19.819444444444443,
+			"overall": 16.297142857142855
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 14.97872340425532,
+			"uncommon": 17.089285714285715,
+			"rare": 21.88888888888889,
+			"overall": 18.497142857142858
+		}
+	},
+	{
+		"name": "Limited Edition Alpha",
+		"code": "lea",
+		"averageWordCounts": {
+			"common": 10.956521739130435,
+			"uncommon": 16.089285714285715,
+			"rare": 19.63013698630137,
+			"overall": 16.217142857142857
+		},
+		"averageWordCountsWithReminderText": {
+			"common": 14.869565217391305,
+			"uncommon": 17.089285714285715,
+			"rare": 21.671232876712327,
+			"overall": 18.417142857142856
+		}
+	}
+]
